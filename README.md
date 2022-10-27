@@ -1,2 +1,8 @@
-# image-processor
-Image processor made with python! Allows users to upload an image and manipulate it by applying filters, enlarge or shrink the image, rotate the image, etc.
+# Image Processor 
+## Nicholas Kang
+This image processor program was made with python, and it allows users to:
+- Upload an image
+- Apply a filter to an image
+- Change the colour of an image
+- Make an image larger or smaller
+- And more!
