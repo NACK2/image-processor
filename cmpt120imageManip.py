@@ -1,5 +1,5 @@
-# CMPT 120 D300 Yet Another Image Processer
-# Author: Nicholas Kang 301452347
+# Image Processer
+# Author: Nicholas Kang
 # Date: November 28, 2021
 
 import cmpt120imageProjHelper
